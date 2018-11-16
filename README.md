@@ -45,13 +45,13 @@ Toutes les traductions de ce dépôt seront listées ci-dessous:
 
 1. **[La pile d'instructions](#1-call-stack)**
 2. **[Les types primitifs](#2-primitive-types)**
-3. **[Value Types and Reference Types](#3-value-types-and-reference-types)**
+3. **[Variables par valeurs ou par références](#3-value-types-and-reference-types)**
 4. **[Implicit, Explicit, Nominal, Structuring and Duck Typing](#4-implicit-explicit-nominal-structuring-and-duck-typing)**
 5. **[== ou === ou typeof](#5--vs--vs-typeof)**
 6. **[Function Scope, Block Scope and Lexical Scope](#6-function-scope-block-scope-and-lexical-scope)**
 7. **[Expression vs Statement](#7-expression-vs-statement)**
 8. **[IIFE, Modules and Namespaces](#8-iife-modules-and-namespaces)**
-9. **[Message Queue and Event Loop](#9-message-queue-and-event-loop)**
+9. **[Concurrence et boucle d'évènements](#9-message-queue-and-event-loop)**
 10. **[setTimeout, setInterval et requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
 11. **[Moteurs JavaScript](#11-javascript-engines)**
 12. **[Bitwise Operators, Type Arrays and Array Buffers](#12-bitwise-operators-type-arrays-and-array-buffers)**
@@ -62,8 +62,8 @@ Toutes les traductions de ce dépôt seront listées ci-dessous:
 17. **[Prototype Inheritance and Prototype Chain](#17-prototype-inheritance-and-prototype-chain)**
 18. **[Object.create and Object.assign](#18-objectcreate-and-objectassign)**
 19. **[map, reduce, filter](#19-map-reduce-filter)**
-20. **[Pure Functions, Side Effects and State Mutation](#20-pure-functions-side-effects-and-state-mutation)**
-21. **[Closures](#21-closures)**
+20. **[Fonctions pures, effets de bord et modifications d'états](#20-pure-functions-side-effects-and-state-mutation)**
+21. **[Les closures](#21-closures)**
 22. **[High Order Functions](#22-high-order-functions)**
 23. **[Récursivité](#23-recursion)**
 24. **[Collections et générateurs](#24-collections-and-generators)**
@@ -133,7 +133,7 @@ Toutes les traductions de ce dépôt seront listées ci-dessous:
 
 ---
 
-## 3. Value Types and Reference Types
+## 3. Variables par valeurs ou par références
 
 ### Articles
 
@@ -275,7 +275,7 @@ Toutes les traductions de ce dépôt seront listées ci-dessous:
 
 ---
 
-## 9. Message Queue and Event Loop
+## 9. Concurrence et boucle d'évènements
 
 ### Articles
 
@@ -301,7 +301,7 @@ Toutes les traductions de ce dépôt seront listées ci-dessous:
 
 ---
 
-## 10. setTimeout, setInterval and requestAnimationFrame
+## 10. setTimeout, setInterval et requestAnimationFrame
 
 ### Articles
 
@@ -568,7 +568,7 @@ Toutes les traductions de ce dépôt seront listées ci-dessous:
 
 ---
 
-## 20. Pure Functions, Side Effects and State Mutation
+## 20. Fonctions pures, effets de bord et modifications d'états
 
 ### Articles
 
@@ -600,7 +600,7 @@ Toutes les traductions de ce dépôt seront listées ci-dessous:
 
 ---
 
-## 21. Closures
+## 21. Les closures
 
 ### Articles
 
